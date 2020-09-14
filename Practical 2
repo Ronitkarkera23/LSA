@@ -18,5 +18,5 @@ Command :- sudo systemctl enable SERVICE_NAME
 Step 8 : To display the list of services which are running In Kali Linux
 Command :- sudo systemctl -t=service --state=running
 Step 9 : Use the Sudo settings
-Command :- sudo apt install -y software_name
+Command :- sudo apt install -y 
 Sudo will give super user.
